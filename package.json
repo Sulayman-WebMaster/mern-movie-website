@@ -1,0 +1,32 @@
+{
+  "name": "movie-web",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Sulayman-WebMaster/mern-movie-website#readme",
+  "bugs": {
+    "url": "https://github.com/Sulayman-WebMaster/mern-movie-website/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sulayman-WebMaster/mern-movie-website.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "body-parser": "^2.2.0",
+    "concurrently": "^9.1.2",
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.13.2",
+    "multer": "^1.4.5-lts.2",
+    "nodemon": "^3.1.9"
+  }
+}
